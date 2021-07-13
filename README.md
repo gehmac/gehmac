@@ -1,2 +1,4 @@
-<h3 align="center">Hello there, I'm Geovanni 👋</h3>
-<h5 align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there%2C+I'm+Geovanni+%F0%9F%91%8B">
+    </a>
+</h1>
