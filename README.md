@@ -18,11 +18,11 @@
 
 - 🔭 Cursando o ensino superior de **Ciências da computação**
 
-- 🌱 Atualmete tenho dedicado meu tempo estudando **node.js, express, typescript**
+- 🌱 Atualmente tenho dedicar meu tempo estudando **node.js, express, typescript**
 
-- ⚡ Fun fact **i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones**
+- ⚡ Meu hobbies são **Jogar um lolzinho**, estudar sobre **Investimentos** como crypito moedas e outros ativos, ler alguns **mangas** e assistir alguns **animes**
 
-- 💬 Gosto de falr sobre **JavaScript, React, Node.js, animes, games e filmes**
+- 💬 Gosto de falr sobre **JavaScript, React, Node.js, Cultura Pop**
 
 - 📫 pode me encontrar **gmarcoscardoso@gmail.com**
 
