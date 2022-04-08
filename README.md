@@ -20,7 +20,7 @@
 
 - 🌱 Atualmente tenho dedicar meu tempo estudando **node.js, express, typescript**
 
-- ⚡ Meu hobbies são **Jogar um lolzinho**, estudar sobre **Investimentos** como crypito moedas e outros ativos, ler alguns **mangas** e assistir alguns **animes**
+- ⚡ Meu hobbies são **Jogar um lolzinho**, estudar sobre **Investimentos** como crypto moedas e outros ativos, ler alguns **mangas** e assistir alguns **animes**
 
 - 💬 Gosto de falr sobre **JavaScript, React, Node.js, Cultura Pop**
 
