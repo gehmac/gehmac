@@ -1,16 +1,8 @@
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=ff6e96&lines=Hello+there%2C+I'm+Geovanni+%F0%9F%91%8B">
 </h1>
-<div> 
-  <p><strong>** SKILLS **</strong></p>
-  <p>
-  <a target="_blank" rell="noopener noreferrer" href="https://camo.githubusercontent.com/523bccf8b08ccd6ec67c1fb6192fffda96987ea9757faf5440e4f1623cc99948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/523bccf8b08ccd6ec67c1fb6192fffda96987ea9757faf5440e4f1623cc99948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" alt="JavaScript Badge" data-canonical-src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width:100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6dd33307985a08dbef2d2478465fa92f65bd78e45395693e9750582b1cd88055/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6dd33307985a08dbef2d2478465fa92f65bd78e45395693e9750582b1cd88055/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML Badge" data-canonical-src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/755d9ba4024c87b45bbfadcd5989f629b04c0f1f47e66c8bdf69a49e56da1935/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/755d9ba4024c87b45bbfadcd5989f629b04c0f1f47e66c8bdf69a49e56da1935/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS Badge" data-canonical-src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f89537966ee4c1bda7c740e940c3a730a884978f1684042081c66dd47e23ef2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f7374796c653d666c61742d737175617265266c6f676f3d4c696e7578266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/4f89537966ee4c1bda7c740e940c3a730a884978f1684042081c66dd47e23ef2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f7374796c653d666c61742d737175617265266c6f676f3d4c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux Badge" data-canonical-src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&amp;logo=Linux&amp;logoColor=black" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git Badge" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width:100%;"></a>
-  </p>
-</div>
 <div align="center">
 <i>Follow me:</i><br>
 <a href="https://www.linkedin.com/in/geovannicardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"><a>
@@ -18,9 +10,51 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvnJdSzPnMrCjsFvGMhhJWSKwGtFBMCJkmZGJMBdfHDfFPFWLWmhMRhrNzlNbMcLNzKDGq" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmarcoscardoso@gmail.com)](mailto:gmarcoscardoso@gmail.com" alt="Gmail"></a>
 </div>
 
+<br/>
+<div>
+<img align="right"  width="450px" margin="2" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" />
+
+**Contando um pocuco sobre mim:**
+
+- 🔭 Cursando o ensino superior de **Ciências da computação**
+
+- 🌱 Atualmete tenho dedicado meu tempo estudando **node.js, express, typescript**
+
+- ⚡ Fun fact **i love playing when it's raining (and when it's not too haha!), lover of comic universe, favorite series: game of thrones**
+
+- 💬 Gosto de falr sobre **JavaScript, React, Node.js, animes, games e filmes**
+
+- 📫 pode me encontrar **gmarcoscardoso@gmail.com**
+
+Olá, meu nome é Geovanni
+Cardoso, e sou apaixonado por
+tecnologia. Quando tive meu
+primeiro contato com
+desenvolvimento web, descobri
+minha vocação hoje e pretendo a
+cada dia me desenvolver mais na
+área trazendo mais segurança e
+conforto para as pessoas em
+forma de apps!
+
+</div>
+<br/>
+
+<div align="center">
+  <p><strong>** Tecnologias **</strong></p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" >
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" >
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+</div>
+
+<br/>
+
 
  <div>
-  <a href="https://github.com/gehmac">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=gehmac&t&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gehmac&langs_count=10&theme=dracula&layout=compact"/>
 <div>
