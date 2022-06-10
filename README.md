@@ -11,7 +11,7 @@
 </div>
 
 <br/>
-    <img align="right"  width="10px" margin="2" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" />
+    
 <div>
 
 
