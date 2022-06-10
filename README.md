@@ -12,7 +12,7 @@
 
 <br/>
 <div>
-<img align="right"  width="100px" margin="2" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" />
+<img align="right"  width="10px" margin="2" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" />
 
 **Contando um pocuco sobre mim:**
 
